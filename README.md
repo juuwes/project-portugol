@@ -1,7 +1,5 @@
-### Lógica de Programação - Portugol <img width="25px" src="https://user-images.githubusercontent.com/93749428/179275143-a443f4eb-66cc-43c4-b5b6-4cb2c61e5bca.jpg">
+<h2 align="center"> Lógica de Programação - Portugol <img width="40px" src="https://user-images.githubusercontent.com/93749428/194070883-c8dca7f5-1335-43c7-a8c9-52e8bc696d5a.png"></h2>
 
 Neste repositório está um pequeno exercício de Lógica de Programação, utilizando o Portugol. 
 
-(A little exercise on programming logic, using Portugol).
-
-#### 💻 Linguagens utilizadas: (pseudolinguagem) Portugol
+### 💻 Linguagens utilizadas: <i>(pseudolinguagem)</i> Portugol
